@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_application_new/widgets_training/popupmenubutton.dart';
-import 'package:flutter_application_new/widgets_training/sliderrangewidget.dart';
 
 void main() {
   runApp(const MyApp());
